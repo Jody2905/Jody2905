@@ -15,7 +15,18 @@ I've spent years supporting government financial systems, keeping data accurate 
 - 🎓 **AS, Information Technology**, SVG Community College
 - 🏛️ **Financial Systems & Data Integrity Support**, Treasury Department, Govt. of SVG (2020 – present)
 - 🔐 **Cybersecurity & Systems Intern**, SIGFIS, Ministry of Finance: IAM, endpoint hardening, PowerShell automation, incident response on MSSQL systems
+- 🌐 **Portfolio:** [jody2905.github.io](https://jody2905.github.io)
 - 🌱 Currently building: AI agent reliability research, security tooling, and full-stack apps
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://jody2905.github.io">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-jody2905.github.io-0b1f3a?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=009E60" height="40" alt="Visit my portfolio" />
+  </a>
+</p>
+
+<p align="center">Experience, research, security tools and live projects, all in one place.</p>
 
 ## 🧰 Tech Stack
 
@@ -55,6 +66,7 @@ I've spent years supporting government financial systems, keeping data accurate 
 
 ## 🤝 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jody2905.github.io-009E60?style=for-the-badge&logo=githubpages&logoColor=white)](https://jody2905.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jody-ann-trimmingham-0a44b52a2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roselletrimmingham@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Jody2905&color=1fb5a8&style=for-the-badge)
