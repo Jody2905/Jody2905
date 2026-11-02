@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1FB5A8&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Networks+Graduate;Financial+Systems+%26+Data+Integrity;IAM+%E2%80%A2+Endpoint+Hardening+%E2%80%A2+PowerShell;Proud+Vincentian+%F0%9F%87%BB%F0%9F%87%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1FB5A8&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Networks+Graduate;Financial+Systems+%26+Data+Integrity;IAM+%E2%80%A2+Endpoint+Hardening+%E2%80%A2+PowerShell;Proud+Vincentian+%F0%9F%8C%B4" />
 </p>
 
 ## 🛡️ About Me
@@ -37,27 +37,10 @@ I've spent years supporting government financial systems, keeping data accurate 
 
 | Project | What it does |
 |---|---|
-| [alert-triage-agent](https://github.com/Jody2905) | AI agent that helps triage security alerts |
-| [Stride](https://github.com/Jody2905) | Full-stack health & fitness app: workouts, nutrition, tracking |
-| [vincy-vibes](https://github.com/Jody2905) | A celebration of Vincentian culture on the web 🇻🇨 |
-| [agent-poisoning-eval](https://github.com/Jody2905) | Research comparing RAG vs. agents vs. agents with verification |
-
-> Update the links above to point at each actual repo.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jody2905&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jody2905&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jody2905&theme=tokyonight&hide_border=true" />
-</p>
+| [ae-ids-cicids2017](https://github.com/Jody2905/ae-ids-cicids2017) | Autoencoder-based intrusion detection system trained on the CICIDS2017 dataset |
+| [agent-poisoning-eval](https://github.com/Jody2905/agent-poisoning-eval) | Research comparing RAG vs. agents vs. agents with verification under data poisoning |
+| [stride-health-planner](https://github.com/Jody2905/stride-health-planner) | Full-stack health & fitness planner: workouts, nutrition, tracking |
+| [vincy-vibes](https://github.com/Jody2905/vincy-vibes) | A celebration of Vincentian culture on the web 🌴 |
 
 ## 💬 Quote of the Day
 
@@ -67,7 +50,7 @@ I've spent years supporting government financial systems, keeping data accurate 
 
 ## 🌴 Fun Facts
 
-- 🇻🇨 Born and raised in St. Vincent and the Grenadines
+- 🏝️ Born and raised in St. Vincent and the Grenadines
 - ☕ Ask me about: data integrity, IAM, and why logs never lie
 
 ## 🤝 Connect
