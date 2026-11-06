@@ -52,7 +52,7 @@ I've spent years supporting government financial systems, keeping data accurate 
 | [agent-poisoning-eval](https://github.com/Jody2905/agent-poisoning-eval) | Research comparing RAG vs. agents vs. agents with verification under data poisoning |
 | [stride-health-planner](https://github.com/Jody2905/stride-health-planner) | Full-stack health & fitness planner: injury-aware workouts, body recomposition & muscle-building splits, nutrition, tracking · [live app](https://stride-or0j.onrender.com) |
 | [velvet-dating-app](https://github.com/Jody2905/velvet-dating-app) | Safety-first dating app: ID verification, consented screening and a moderator review queue · [live app](https://velvet-dating-app-lon3.onrender.com) |
-| [SafeRoute](https://github.com/Jody2905/SafeRoute) | Privacy-first taxi app for St. Vincent: real GPS map, ride PIN, live trip sharing, route alerts · [live site](https://jody2905.github.io/SafeRoute/) |
+| [SafeRoute](https://github.com/Jody2905/SafeRoute) | Full-stack, privacy-first taxi app for St. Vincent: live driver GPS over WebSockets, server-checked ride PIN, private share links, route alerts · [live app](https://saferoute-api-ir4y.onrender.com) |
 | [vincy-vibes](https://github.com/Jody2905/vincy-vibes) | A celebration of Vincentian culture on the web 🌴 |
 
 ## 💬 Quote of the Day
